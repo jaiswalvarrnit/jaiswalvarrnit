@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaiswalvarrnit&label=Profile%20views&color=0e75b6&style=flat" alt="jaiswalvarrnit" /> </p>
 
-- 🔭 I’m currently working on **A ML Project**
+- 🔭 I’m currently working on **A AI Project**
 
 - 👨‍💻 All of my projects are available at [https://ajsfeuchtyz8rlmrjl4zow.on.drv.tw/www.VarrnitPortFolio.com/]([https://ajsfeuchtyz8rlmrjl4zow.on.drv.tw/www.VarrnitPortFolio.com/](https://jaiswalvarrnit.github.io/portfoliosite/))
 
